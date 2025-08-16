@@ -35,7 +35,8 @@ Tableau Public – For creating and publishing the dashboard.
 Dashboard Link
 
 Click below to view and interact with the live dashboard:
-👉 Road Accident Dashboard on Tableau Public
+
+👉 https://public.tableau.com/views/accidentaldata/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 Key Features
 
